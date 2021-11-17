@@ -47,7 +47,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/J0SAL/City-Waste-Management.git
+git clone https://github.com/jeetmistry/City-Waste-Management.git
 # Go into the repository
 cd City-Waste-Management
 # Install dependencies
