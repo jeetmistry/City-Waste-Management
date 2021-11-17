@@ -1,6 +1,6 @@
 # City Waste Management
 
-<p>A Web Application App to help reduce city waste. </p>
+<p>A Web Application to help reduce city waste. </p>
 <p>City Waste Management is an Web Application through an individual can directly make a request to clear garbages in his/any region. An Individual has to register into the application and just upload the data i.e. locality and image of uncleaned area. This request will directly sent to respective authority assigned to that area so that he'll be able to take some actions on the same. The continuos progress of the request will be continuosly updated into users portal.</p>
 
 ## Deployment
