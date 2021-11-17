@@ -5,7 +5,7 @@
 
 ## Deployment
 
-  https://cw-management.herokuapp.com/
+  https://city-waste-management.herokuapp.com/
   
 ## Video Link
   https://youtu.be/ScxVV9nqxZw
